@@ -12,3 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: test -f README.md
+      - run: echo AAO-P3-10-canary-20261024T191333.488500113Z
